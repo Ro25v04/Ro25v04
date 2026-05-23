@@ -1,5 +1,5 @@
 # About Me:
-Hi there, I'm Rohit 👋<br>Master of Data Science @ RMIT University · Melbourne, Australia<br>Building production AI systems at the intersection of ML, LLMs, and real-world data.
+Hi there, I'm Rohit 👋<br>Master of Data Science @ RMIT University · Melbourne, Australia<br>Building end-to-end production systems at the intersection of ML, LLMs, and real-world data.
 
 
 ## 🌐 Socials:
